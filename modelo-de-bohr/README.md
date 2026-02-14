@@ -20,7 +20,6 @@ Este projeto é uma simulação interativa e hiper-realista do modelo atômico d
 
 ## Demonstração
 
-> **Sugestão:** Coloque aqui um GIF ou screenshot do átomo renderizado. Exemplo:
 >
 > ![Exemplo de átomo 3D](./src/assets/atomo.png)
 
