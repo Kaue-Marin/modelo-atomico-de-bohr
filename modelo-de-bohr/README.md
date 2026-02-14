@@ -1,6 +1,6 @@
-# Modelo Atômico de Bohr 3D Hiper-Realista
+# Modelo Atômico de Bohr 3D 
 
-Este projeto é uma simulação interativa e hiper-realista do modelo atômico de Bohr, desenvolvida com Vue.js 3 e Three.js. O sistema utiliza materiais PBR, texturas procedurais, pós-processamento avançado e um ambiente espacial 3D para criar uma visualização científica e artística de um átomo.
+Este projeto é uma simulação interativa do modelo atômico de Bohr, desenvolvida com Vue.js 3 e Three.js. O sistema utiliza materiais PBR, texturas procedurais, pós-processamento avançado e um ambiente espacial 3D para criar uma visualização científica e artística de um átomo.
 
 ## Sumário
 - [Demonstração](#demonstração)
@@ -26,7 +26,7 @@ Este projeto é uma simulação interativa e hiper-realista do modelo atômico d
 ---
 
 ## Funcionalidades
-- Núcleo hiper-realista com prótons vermelhos e nêutrons roxos, ambos com texturas e brilho próprio
+- Núcleo com prótons vermelhos e nêutrons roxos, ambos com texturas e brilho próprio
 - Elétrons azuis com glow, animados em órbitas elípticas
 - Órbitas texturizadas, com efeito de energia e halo difuso
 - Fundo de espaço estrelado 3D (campo de partículas)
@@ -110,8 +110,6 @@ modelo-de-bohr/
 - **Tecnologias:** Vue.js 3, Three.js, JavaScript ES2022
 - **Autor:** Kauê Marin
 - **Licença:** MIT
-- **Imagens:** Se usar texturas externas, cite as fontes.
-
 ---
 
 > Dúvidas, sugestões ou bugs? Abra uma issue ou envie um PR!
