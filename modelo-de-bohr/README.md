@@ -22,7 +22,7 @@ Este projeto é uma simulação interativa e hiper-realista do modelo atômico d
 
 > **Sugestão:** Coloque aqui um GIF ou screenshot do átomo renderizado. Exemplo:
 >
-> ![Exemplo de átomo 3D](./docs/demo-atom.gif)
+> ![Exemplo de átomo 3D](./src/assets/atomo.png)
 
 ---
 
@@ -41,9 +41,9 @@ Este projeto é uma simulação interativa e hiper-realista do modelo atômico d
 
 ```
 modelo-de-bohr/
-├── public/
+|
 ├── src/
-│   ├── assets/                # Imagens, texturas externas, HDRs
+│   ├── assets/                # Imagens
 │   ├── composables/
 │   │   ├── useThreeScene.js   # Setup da cena Three.js (câmera, luzes, pós-processamento)
 │   │   ├── useFabricaAtomo.js # Fábrica de núcleo, elétrons e órbitas hiper-realistas
@@ -51,8 +51,6 @@ modelo-de-bohr/
 │   ├── components/
 │   │   └── atom/
 │   │       └── AtomCanvas.vue # Canvas principal do átomo
-│   ├── views/
-│   │   └── HomeView.vue       # View principal
 │   └── App.vue
 ├── package.json
 └── README.md
